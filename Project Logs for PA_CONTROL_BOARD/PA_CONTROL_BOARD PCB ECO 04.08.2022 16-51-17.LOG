@@ -1,0 +1,148 @@
+Added Component: Designator=C1(CAP_SMD_TANT_A)
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_SMD_TANT_A)
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_SMD_TANT_A)
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_SMD_TANT_A)
+Added Component: Designator=C11(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_SMD_TANT_A)
+Added Component: Designator=C?(CAP_SMD_TANT_A)
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_SMD_TANT_A)
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_SMD_TANT_A)
+Added Component: Designator=J1(Header7x2)
+Added Component: Designator=U1(LM1085ISX-3.3)
+Added Component: Designator=U2(LM1085ISX-3.3)
+Added Component: Designator=U2(LM1085ISX-3.3)
+Added Component: Designator=U3(STM-LQFP100_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F407VET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-12075-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2064367"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "73T2332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "511-STM32F407VET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=U4(LCD-RA8875)
+Added Component: Designator=U?(LM1085ISX-3.3)
+Added Pin To Net: NetName=+3V3 Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-4
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=+12V Pin=C7-1
+Added Pin To Net: NetName=+12V Pin=C8-1
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Pin To Net: NetName=+12V Pin=U2-3
+Added Pin To Net: NetName=+12V Pin=U2-3
+Added Pin To Net: NetName=+12V Pin=U?-3
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC1_2 Pin=C6-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=C10-2
+Added Pin To Net: NetName=NetC7_2 Pin=C11-2
+Added Pin To Net: NetName=NetC7_2 Pin=C12-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U2-1
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Added Class: Name=LCD_ETHERNET
+Added Class: Name=MCU
+Added Class: Name=PA_CONTROL_BOARD
+Added Class: Name=POWER_SUPPLY
+Added Room: Name=LCD_ETHERNET
+Added Room: Name=MCU
+Added Room: Name=PA_CONTROL_BOARD
+Added Room: Name=POWER_SUPPLY

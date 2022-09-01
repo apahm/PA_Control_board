@@ -1,0 +1,114 @@
+Change Component Footprint: Designator=X? Old Footprint=HDR1X3 New Footprint=J0011D018
+Change Component Comment : Designator=X? Old Comment=X_3_1 New Comment=TRJ0011TBNL (J0011D018)
+Added Component: Designator=D?(QFP48)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-15
+Added Pin To Net: NetName=GND Pin=D?-19
+Added Pin To Net: NetName=GND Pin=D?-35
+Added Pin To Net: NetName=GND Pin=D?-36
+Added Pin To Net: NetName=GND Pin=D?-47
+Added Pin To Net: NetName=GND Pin=D?-49
+Added Pin To Net: NetName=GND Pin=X?-8
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=D?-22
+Added Pin To Net: NetName=3V3 Pin=D?-32
+Added Pin To Net: NetName=3V3 Pin=D?-48
+Added Pin To Net: NetName=3V3 Pin=X?-4
+Added Pin To Net: NetName=3V3 Pin=X?-5
+Added Net: Name=3V3
+Added Pin To Net: NetName=50MHz Pin=D?-34
+Added Net: Name=50MHz
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-18
+Added Pin To Net: NetName=NetC?_1 Pin=D?-23
+Added Pin To Net: NetName=NetC?_1 Pin=D?-37
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_3 Pin=D?-3
+Added Net: Name=NetD?_3
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Net: Name=NetD?_4
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Net: Name=NetD?_7
+Added Pin To Net: NetName=NetD?_20 Pin=D?-20
+Added Net: Name=NetD?_20
+Added Pin To Net: NetName=NetD?_21 Pin=D?-21
+Added Net: Name=NetD?_21
+Added Pin To Net: NetName=NetD?_24 Pin=D?-24
+Added Net: Name=NetD?_24
+Added Pin To Net: NetName=NetD?_26 Pin=D?-26
+Added Pin To Net: NetName=NetD?_26 Pin=X?-11
+Added Net: Name=NetD?_26
+Added Pin To Net: NetName=NetD?_27 Pin=D?-27
+Added Net: Name=NetD?_27
+Added Pin To Net: NetName=NetD?_28 Pin=D?-28
+Added Pin To Net: NetName=NetD?_28 Pin=X?-10
+Added Net: Name=NetD?_28
+Added Pin To Net: NetName=NetD?_29 Pin=D?-29
+Added Net: Name=NetD?_29
+Added Pin To Net: NetName=NetD?_30 Pin=D?-30
+Added Net: Name=NetD?_30
+Added Pin To Net: NetName=NetD?_31 Pin=D?-31
+Added Net: Name=NetD?_31
+Added Pin To Net: NetName=NetD?_39 Pin=D?-39
+Added Net: Name=NetD?_39
+Added Pin To Net: NetName=NetD?_40 Pin=D?-40
+Added Net: Name=NetD?_40
+Added Pin To Net: NetName=NetD?_42 Pin=D?-42
+Added Net: Name=NetD?_42
+Added Pin To Net: NetName=NetD?_43 Pin=D?-43
+Added Net: Name=NetD?_43
+Added Pin To Net: NetName=NetD?_44 Pin=D?-44
+Added Net: Name=NetD?_44
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=RD_N Pin=D?-13
+Added Pin To Net: NetName=RD_N Pin=X?-6
+Added Net: Name=RD_N
+Added Pin To Net: NetName=RD_P Pin=D?-14
+Added Pin To Net: NetName=RD_P Pin=X?-3
+Added Net: Name=RD_P
+Added Pin To Net: NetName=SHLD Pin=C?-2
+Added Pin To Net: NetName=SHLD Pin=X?-S1
+Added Pin To Net: NetName=SHLD Pin=X?-S2
+Added Net: Name=SHLD
+Added Pin To Net: NetName=TD_N Pin=D?-16
+Added Pin To Net: NetName=TD_N Pin=X?-2
+Added Net: Name=TD_N
+Added Pin To Net: NetName=TD_P Pin=D?-17
+Added Pin To Net: NetName=TD_P Pin=X?-1
+Added Net: Name=TD_P
+Added Class: Name=ETHERNET
+Added Differential Pair: Name=RD
+Added Differential Pair: Name=TD
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Room: Name=ETHERNET
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq

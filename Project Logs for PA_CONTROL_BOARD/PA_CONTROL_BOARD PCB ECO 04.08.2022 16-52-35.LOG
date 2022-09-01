@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=+3V3 Pin=C?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+3V3 Pin=U?-2
+Removed Pin From Net: NetName=+12V Pin=U?-3
+Removed Pin From Net: NetName=+3V3 Pin=U?-4
+Added Component: Designator=C1(CAP_SMD_TANT_A)
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_SMD_TANT_A)
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_SMD_TANT_A)
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_SMD_TANT_A)
+Added Component: Designator=C11(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(LM1085ISX-3.3)
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C5-1
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=+12V Pin=C7-1
+Added Pin To Net: NetName=+12V Pin=C8-1
+Added Pin To Net: NetName=+3V3 Pin=C9-1
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Added Pin To Net: NetName=+3V3 Pin=C12-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Pin To Net: NetName=+3V3 Pin=U1-4
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC1_2 Pin=C6-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=C10-2
+Added Pin To Net: NetName=NetC7_2 Pin=C11-2
+Added Pin To Net: NetName=NetC7_2 Pin=C12-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-1
+Added Net: Name=NetC7_2
+Added Class: Name=POWER_SUPPLY
+Added Room: Name=POWER_SUPPLY

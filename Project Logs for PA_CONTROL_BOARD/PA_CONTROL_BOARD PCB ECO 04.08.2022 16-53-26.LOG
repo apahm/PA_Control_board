@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetC7_2 Pin=C1-2
+Added Pin To Net: NetName=NetC7_2 Pin=C2-2
+Added Pin To Net: NetName=NetC7_2 Pin=C3-2
+Added Pin To Net: NetName=NetC7_2 Pin=C4-2
+Added Pin To Net: NetName=NetC7_2 Pin=C5-2
+Added Pin To Net: NetName=NetC7_2 Pin=C6-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=GND
+Added Room: Name=LCD_ETHERNET
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY

@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+12V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=+3V3 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+3V3 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=+12V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=+12V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=+3V3 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3V3 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=+3V3 Pin=U2-2
+Removed Pin From Net: NetName=+12V Pin=U2-3
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C2
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C3
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C5
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C6
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C7
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C8
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C9
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C10
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C11
+Removed Member From Class: ClassName=POWER_SUPPLY Member=C12
+Removed Member From Class: ClassName=POWER_SUPPLY Member=U2
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(HDR1X3)
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C? CAP_0805
+Added Member To Class: ClassName=LCD_ETHERNET Member=Component X? X_3_1
+Added Room: Name=LCD_ETHERNET
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq

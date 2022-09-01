@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=LCD_ETHERNET Member=U4
+Added Component: Designator=U?(DIP-4)
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Nov-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Sch pins 3 & 4 Swapped."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-27
+Added Pin To Net: NetName=GND Pin=U3-74
+Added Pin To Net: NetName=GND Pin=U3-99
+Added Pin To Net: NetName=PA1-RMII-RX-CLK Pin=U3-24
+Added Net: Name=PA1-RMII-RX-CLK
+Added Pin To Net: NetName=PA2-RMII-MDIO Pin=U3-25
+Added Net: Name=PA2-RMII-MDIO
+Added Pin To Net: NetName=PA7-RMII-CRX-DV Pin=U3-32
+Added Net: Name=PA7-RMII-CRX-DV
+Added Pin To Net: NetName=PA13-JTMS Pin=U3-72
+Added Net: Name=PA13-JTMS
+Added Pin To Net: NetName=PA14-JTCK Pin=U3-76
+Added Net: Name=PA14-JTCK
+Added Pin To Net: NetName=PA15-JTDI Pin=U3-77
+Added Net: Name=PA15-JTDI
+Added Pin To Net: NetName=PB10-SPI2-SCK Pin=U3-47
+Added Net: Name=PB10-SPI2-SCK
+Added Pin To Net: NetName=PB11-RMII-TXEN Pin=U3-48
+Added Net: Name=PB11-RMII-TXEN
+Added Pin To Net: NetName=PB12-RMII-TXD0 Pin=U3-51
+Added Net: Name=PB12-RMII-TXD0
+Added Pin To Net: NetName=PB13-RMII-TXD1 Pin=U3-52
+Added Net: Name=PB13-RMII-TXD1
+Added Pin To Net: NetName=PC0 Pin=U3-15
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1-RMII-MDC Pin=U3-16
+Added Net: Name=PC1-RMII-MDC
+Added Pin To Net: NetName=PC2-SPI2-MISO Pin=U3-17
+Added Net: Name=PC2-SPI2-MISO
+Added Pin To Net: NetName=PC3-SPI2-MOSI Pin=U3-18
+Added Net: Name=PC3-SPI2-MOSI
+Added Pin To Net: NetName=PC4-RMII-RXD0 Pin=U3-33
+Added Net: Name=PC4-RMII-RXD0
+Added Pin To Net: NetName=PC5-RMII-RXD1 Pin=U3-34
+Added Net: Name=PC5-RMII-RXD1
+Added Pin To Net: NetName=PD0-CAN1-RX Pin=U3-81
+Added Net: Name=PD0-CAN1-RX
+Added Pin To Net: NetName=PD1-CAN1-TX Pin=U3-82
+Added Net: Name=PD1-CAN1-TX
+Added Pin To Net: NetName=PE3-FLASH-CS Pin=U3-2
+Added Net: Name=PE3-FLASH-CS
+Added Class: Name=Seq
+Added Room: Name=LCD_ETHERNET
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq
