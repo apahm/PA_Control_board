@@ -1,0 +1,35 @@
+Added Component: Designator=R27(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(HDR2X10)
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=3.3V Pin=R27-1
+Added Pin To Net: NetName=3.3V Pin=R30-1
+Added Pin To Net: NetName=3.3V Pin=X3-1
+Added Pin To Net: NetName=3.3V Pin=X3-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=X3-3
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=PB3-JTDO Pin=R30-2
+Added Pin To Net: NetName=PB3-JTDO Pin=X3-6
+Added Net: Name=PB3-JTDO
+Added Pin To Net: NetName=RESET Pin=X3-6
+Added Net: Name=RESET
+Added Class: Name=JTAG
+Added Room: Name=CAN
+Added Room: Name=ETH
+Added Room: Name=JTAG
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq
+Added Room: Name=USB
