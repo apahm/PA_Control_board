@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=PE3-FLASH-CS Pin=U?-2
+Removed Pin From Net: NetName=PC0 Pin=U?-15
+Removed Pin From Net: NetName=PC1-RMII-MDC Pin=U?-16
+Removed Pin From Net: NetName=PC2-SPI2-MISO Pin=U?-17
+Removed Pin From Net: NetName=PC3-SPI2-MOSI Pin=U?-18
+Removed Pin From Net: NetName=PA1-RMII-RX-CLK Pin=U?-24
+Removed Pin From Net: NetName=PA2-RMII-MDIO Pin=U?-25
+Removed Pin From Net: NetName=PA7-RMII-CRX-DV Pin=U?-32
+Removed Pin From Net: NetName=PC4-RMII-RXD0 Pin=U?-33
+Removed Pin From Net: NetName=PC5-RMII-RXD1 Pin=U?-34
+Removed Pin From Net: NetName=PB10-SPI2-SCK Pin=U?-47
+Removed Pin From Net: NetName=PB11-RMII-TXEN Pin=U?-48
+Removed Pin From Net: NetName=PB12-RMII-TXD0 Pin=U?-51
+Removed Pin From Net: NetName=PB13-RMII-TXD1 Pin=U?-52
+Removed Pin From Net: NetName=PD0-CAN1-RX Pin=U?-81
+Removed Pin From Net: NetName=PD1-CAN1-TX Pin=U?-82
+Removed Member From Class: ClassName=LCD_ILI9341 Member=X?
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Added Pin To Net: NetName=PE3-FLASH-CS Pin=U2-2
+Added Pin To Net: NetName=PC0 Pin=U2-15
+Added Pin To Net: NetName=PC1-RMII-MDC Pin=U2-16
+Added Pin To Net: NetName=PC2-SPI2-MISO Pin=U2-17
+Added Pin To Net: NetName=PC3-SPI2-MOSI Pin=U2-18
+Added Pin To Net: NetName=PA1-RMII-RX-CLK Pin=U2-24
+Added Pin To Net: NetName=PA2-RMII-MDIO Pin=U2-25
+Added Pin To Net: NetName=PA7-RMII-CRX-DV Pin=U2-32
+Added Pin To Net: NetName=PC4-RMII-RXD0 Pin=U2-33
+Added Pin To Net: NetName=PC5-RMII-RXD1 Pin=U2-34
+Added Pin To Net: NetName=PB10-SPI2-SCK Pin=U2-47
+Added Pin To Net: NetName=PB11-RMII-TXEN Pin=U2-48
+Added Pin To Net: NetName=PB12-RMII-TXD0 Pin=U2-51
+Added Pin To Net: NetName=PB13-RMII-TXD1 Pin=U2-52
+Added Pin To Net: NetName=PD0-CAN1-RX Pin=U2-81
+Added Pin To Net: NetName=PD1-CAN1-TX Pin=U2-82
+Added Member To Class: ClassName=LCD_ILI9341 Member=Component X4 LCD-MODULE

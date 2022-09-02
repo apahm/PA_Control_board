@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=3.3V Pin=X3-1
+Removed Pin From Net: NetName=3.3V Pin=X3-2
+Removed Pin From Net: NetName=NetR27_2 Pin=X3-3
+Removed Pin From Net: NetName=GND Pin=X3-4
+Removed Pin From Net: NetName=RESET Pin=X3-6
+Removed Member From Class: ClassName=JTAG Member=X3
+Change Component Footprint: Designator=X? Old Footprint=LCD-MODULE-3.2-480-320 New Footprint=HDR2X10
+Change Component Comment : Designator=X? Old Comment=LCD-MODULE_3'2_480õ320 New Comment=JTAG
+Change component parameters: Designator = "X?" ("X?"); Footprint = "LCD-MODULE-3.2-480-320"; UniqueID = "\PVHBBSVB" ("\PVHBBSVB")
+Added Component: Designator=X?(LCD-MODULE-3.2-480-320)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=X?-1
+Added Pin To Net: NetName=3.3V Pin=X?-2
+Added Pin To Net: NetName=NetR27_2 Pin=X?-3
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-8
+Added Pin To Net: NetName=GND Pin=X?-10
+Added Pin To Net: NetName=GND Pin=X?-12
+Added Pin To Net: NetName=PB3-JTDO Pin=X?-13
+Added Pin To Net: NetName=GND Pin=X?-14
+Added Pin To Net: NetName=RESET Pin=X?-15
+Added Pin To Net: NetName=GND Pin=X?-16
+Added Pin To Net: NetName=GND Pin=X?-18
+Added Pin To Net: NetName=GND Pin=X?-20
+Added Member To Class: ClassName=JTAG Member=Component X? JTAG
+Added Room: Name=CAN
+Added Room: Name=ETH
+Added Room: Name=JTAG
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq
+Added Room: Name=USB

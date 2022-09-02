@@ -1,0 +1,23 @@
+Added Component: Designator=X?(HDR2X10)
+Added Pin To Net: NetName=PA15-JTDI Pin=R28-2
+Added Pin To Net: NetName=PA13-JTMS Pin=R29-2
+Added Pin To Net: NetName=PA14-JTCK Pin=R31-1
+Added Pin To Net: NetName=3.3V Pin=X?-1
+Added Pin To Net: NetName=3.3V Pin=X?-2
+Added Pin To Net: NetName=PB4-JNTRST Pin=X?-3
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=PA15-JTDI Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=PA13-JTMS Pin=X?-7
+Added Pin To Net: NetName=GND Pin=X?-8
+Added Pin To Net: NetName=PA14-JTCK Pin=X?-9
+Added Pin To Net: NetName=GND Pin=X?-10
+Added Pin To Net: NetName=GND Pin=X?-12
+Added Pin To Net: NetName=PB3-JTDO Pin=X?-13
+Added Pin To Net: NetName=GND Pin=X?-14
+Added Pin To Net: NetName=RESET Pin=X?-15
+Added Pin To Net: NetName=GND Pin=X?-16
+Added Pin To Net: NetName=GND Pin=X?-18
+Added Pin To Net: NetName=GND Pin=X?-20
+Added Member To Class: ClassName=JTAG Member=Component X? JTAG
+Added Member To Class: ClassName=LCD_ILI9341 Member=Component X? LCD-MODULE

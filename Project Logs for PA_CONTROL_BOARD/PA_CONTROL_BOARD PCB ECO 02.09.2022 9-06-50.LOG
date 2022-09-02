@@ -1,0 +1,13 @@
+Added Component: Designator=X?(LCD-MODULE-3.2-480-320)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=RESET Pin=X3-6
+Added Member To Class: ClassName=LCD_ILI9341 Member=Component X? LCD-MODULE_3'2_480õ320
+Added Room: Name=CAN
+Added Room: Name=ETH
+Added Room: Name=JTAG
+Added Room: Name=LCD_ILI9341
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq
+Added Room: Name=USB
