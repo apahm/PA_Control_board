@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=CAN Member=C8
+Removed Member From Class: ClassName=ETH Member=C8
+Removed Member From Class: ClassName=FLASH Member=C9
+Removed Member From Class: ClassName=MCU Member=C9
+Removed Member From Class: ClassName=ETH Member=R10
+Removed Member From Class: ClassName=JTAG Member=R10
+Removed Member From Class: ClassName=ETH Member=R11
+Removed Member From Class: ClassName=JTAG Member=R11
+Removed Member From Class: ClassName=JTAG Member=R25
+Removed Member From Class: ClassName=USB Member=R25
+Removed Member From Class: ClassName=CAN Member=R27
+Removed Member From Class: ClassName=ETH Member=R34
+Removed Member From Class: ClassName=FLASH Member=U4
+Removed Member From Class: ClassName=MCU Member=U5
+Removed Member From Class: ClassName=CAN Member=VD3
+Change Component Comment : Designator=R37 Old Comment=1M New Comment=47
+Change Component Comment : Designator=C11 Old Comment=100nF New Comment=0.1 uF
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-41)
+Added Pin To Net: NetName=+3.3 Pin=R?-1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Class: Name=DS18B20
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C1 CAP_0805
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component C4 CAP_0805
+Added Member To Class: ClassName=CAN Member=Component C11 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C12 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C15 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C16 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C17 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C18 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C19 0.1 uF
+Added Member To Class: ClassName=ETH Member=Component C21 0.1 uF
+Added Member To Class: ClassName=FLASH Member=Component C22 0.1 uF
+Added Member To Class: ClassName=MCU Member=Component C24 0.1 uF
+Added Member To Class: ClassName=USB Member=Component R13 RES_0805
+Added Member To Class: ClassName=CAN Member=Component R15 120
+Added Member To Class: ClassName=ETH Member=Component R16 RES_0805
+Added Member To Class: ClassName=ETH Member=Component R17 RES_0805
+Added Member To Class: ClassName=ETH Member=Component R18 RES_0805
+Added Member To Class: ClassName=ETH Member=Component R19 RES_0805
+Added Member To Class: ClassName=ETH Member=Component R20 240
+Added Member To Class: ClassName=ETH Member=Component R21 240
+Added Member To Class: ClassName=ETH Member=Component R22 2k
+Added Member To Class: ClassName=ETH Member=Component R23 2k
+Added Member To Class: ClassName=ETH Member=Component R24 2k
+Added Member To Class: ClassName=ETH Member=Component R26 2k
+Added Member To Class: ClassName=ETH Member=Component R28 2k
+Added Member To Class: ClassName=ETH Member=Component R29 2k
+Added Member To Class: ClassName=ETH Member=Component R30 2k
+Added Member To Class: ClassName=JTAG Member=Component R31 10K
+Added Member To Class: ClassName=JTAG Member=Component R32 10K
+Added Member To Class: ClassName=JTAG Member=Component R33 10K
+Added Member To Class: ClassName=JTAG Member=Component R35 10K
+Added Member To Class: ClassName=FLASH Member=Component U6 W25Q128
+Added Member To Class: ClassName=MCU Member=Component U7 STM32F407VET6
+Added Member To Class: ClassName=Seq Member=Component VD2 1N4007
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=ETH
+Added Room: Name=FLASH
+Added Room: Name=JTAG
+Added Room: Name=LCD_ILI9341
+Added Room: Name=MCU
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=Seq
+Added Room: Name=USB
