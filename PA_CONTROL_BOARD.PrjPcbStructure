@@ -1,1 +1,9 @@
-Record=TopLevelDocument|FileName=CAN.SchDoc
+Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=ETH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=FLASH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=JTAG.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=LCD_ILI9341.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=POWER_SUPPLY.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Seq.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=USB.SchDoc|SheetNumber= 
