@@ -1,0 +1,35 @@
+Added Component: Designator=R1(AXIAL-0.6)
+Added Component: Designator=R2(AXIAL-0.6)
+Added Component: Designator=R3(AXIAL-0.6)
+Added Component: Designator=R4(AXIAL-0.6)
+Added Component: Designator=R5(AXIAL-0.6)
+Added Component: Designator=R6(AXIAL-0.6)
+Added Component: Designator=R7(AXIAL-0.6)
+Added Component: Designator=R8(AXIAL-0.6)
+Added Component: Designator=R9(AXIAL-0.6)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetR2_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR2_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR2_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Member To Class: ClassName=Seq Member=Component R1 100Ê
+Added Member To Class: ClassName=Seq Member=Component R2 2Ê
+Added Member To Class: ClassName=Seq Member=Component R3 2Ê
+Added Member To Class: ClassName=Seq Member=Component R4 470
+Added Member To Class: ClassName=Seq Member=Component R5 100Ê
+Added Member To Class: ClassName=Seq Member=Component R6 2Ê
+Added Member To Class: ClassName=Seq Member=Component R7 2Ê
+Added Member To Class: ClassName=Seq Member=Component R8 2Ê
+Added Member To Class: ClassName=Seq Member=Component R9 2Ê

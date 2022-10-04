@@ -1,0 +1,76 @@
+Added Component: Designator=R41(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R42(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R43(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R44(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R45(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R46(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R47(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R49(C0805R)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X11(PLD1X4)
+Added Component: Designator=X12(PLD1X4)
+Added Component: Designator=X13(PLD1X4)
+Added Component: Designator=X14(PLD1X4)
+Added Component: Designator=X15(PLD1X4)
+Added Component: Designator=X16(PLD1X4)
+Added Pin To Net: NetName=+12 Pin=R41-1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=+12 Pin=R42-1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=+12 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=+12 Pin=R44-1
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=+12 Pin=R45-1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=+12 Pin=R46-1
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=+12 Pin=X11-2
+Added Pin To Net: NetName=NetR42_2 Pin=X11-3
+Added Pin To Net: NetName=NetR48_1 Pin=X11-4
+Added Pin To Net: NetName=GND Pin=X12-1
+Added Pin To Net: NetName=+12 Pin=X12-2
+Added Pin To Net: NetName=NetR44_2 Pin=X12-3
+Added Pin To Net: NetName=NetR49_1 Pin=X12-4
+Added Pin To Net: NetName=GND Pin=X13-1
+Added Pin To Net: NetName=+12 Pin=X13-2
+Added Pin To Net: NetName=NetR46_2 Pin=X13-3
+Added Pin To Net: NetName=NetR47_1 Pin=X13-4
+Added Pin To Net: NetName=GND Pin=X14-1
+Added Pin To Net: NetName=+12 Pin=X14-2
+Added Pin To Net: NetName=NetR41_2 Pin=X14-3
+Added Pin To Net: NetName=NetR51_1 Pin=X14-4
+Added Pin To Net: NetName=GND Pin=X15-1
+Added Pin To Net: NetName=+12 Pin=X15-2
+Added Pin To Net: NetName=NetR43_2 Pin=X15-3
+Added Pin To Net: NetName=NetR52_1 Pin=X15-4
+Added Pin To Net: NetName=GND Pin=X16-1
+Added Pin To Net: NetName=+12 Pin=X16-2
+Added Pin To Net: NetName=NetR45_2 Pin=X16-3
+Added Pin To Net: NetName=NetR50_1 Pin=X16-4
+Added Member To Class: ClassName=FAN_CTRL Member=Component R41 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R42 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R43 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R44 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R45 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R46 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R47 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component R49 RES_0805
+Added Member To Class: ClassName=FAN_CTRL Member=Component X11 FAN_CONNECTOR
+Added Member To Class: ClassName=FAN_CTRL Member=Component X12 FAN_CONNECTOR
+Added Member To Class: ClassName=FAN_CTRL Member=Component X13 FAN_CONNECTOR
+Added Member To Class: ClassName=FAN_CTRL Member=Component X14 FAN_CONNECTOR
+Added Member To Class: ClassName=FAN_CTRL Member=Component X15 FAN_CONNECTOR
+Added Member To Class: ClassName=FAN_CTRL Member=Component X16 FAN_CONNECTOR

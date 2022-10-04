@@ -1,0 +1,216 @@
+Removed Member From Class: ClassName=ETH_PHY Member=C15
+Removed Member From Class: ClassName=ETH_PHY Member=C16
+Removed Member From Class: ClassName=ETH_PHY Member=C17
+Removed Member From Class: ClassName=ETH_PHY Member=C18
+Removed Member From Class: ClassName=ETH_PHY Member=C19
+Removed Member From Class: ClassName=ETH_PHY Member=C20
+Removed Member From Class: ClassName=ETH_PHY Member=C21
+Removed Member From Class: ClassName=ETH_PHY Member=C22
+Removed Member From Class: ClassName=ETH_PHY Member=C23
+Removed Member From Class: ClassName=ETH_PHY Member=C24
+Removed Member From Class: ClassName=ETH_PHY Member=C25
+Removed Member From Class: ClassName=ETH_PHY Member=C26
+Removed Member From Class: ClassName=ETH_PHY Member=C27
+Removed Member From Class: ClassName=ETH_PHY Member=R16
+Removed Member From Class: ClassName=ETH_PHY Member=R17
+Removed Member From Class: ClassName=ETH_PHY Member=R18
+Removed Member From Class: ClassName=ETH_PHY Member=R19
+Removed Member From Class: ClassName=ETH_PHY Member=R20
+Removed Member From Class: ClassName=ETH_PHY Member=R21
+Removed Member From Class: ClassName=ETH_PHY Member=R22
+Removed Member From Class: ClassName=ETH_PHY Member=R23
+Removed Member From Class: ClassName=DIRECTIONAL_COUPLER Member=U?
+Removed Member From Class: ClassName=DS18B20 Member=X?
+Change Component Footprint: Designator=C9 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C10 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C11 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C13 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C16 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C17 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C18 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C19 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C20 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C21 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C22 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C23 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C24 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C25 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C26 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C27 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C28 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C29 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C30 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C31 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C33 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C34 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C35 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C36 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C37 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C38 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C39 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C40 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C41 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=C42 Old Footprint=CAP_0805 New Footprint=C0805C
+Change Component Footprint: Designator=R10 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R11 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R12 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R13 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R19 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R20 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R21 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R22 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R23 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R24 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R25 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R26 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R27 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R28 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R29 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R30 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R31 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R32 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R34 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R35 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R36 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R37 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R38 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R39 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R40 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R41 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R42 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R43 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R44 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R45 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R46 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R47 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R48 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R49 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R50 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R51 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Footprint: Designator=R52 Old Footprint=RES_0805 New Footprint=C0805R
+Change Component Comment : Designator=C9 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C10 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C11 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C13 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C15 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C16 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C17 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C18 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C19 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C20 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C21 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C22 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C28 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C30 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C31 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C33 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C34 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C35 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C36 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C37 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C38 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C39 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C40 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C41 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=C42 Old Comment=0.1 uF New Comment=CAP_0805
+Change Component Comment : Designator=R25 Old Comment=1.5k New Comment=RES_0805
+Change Component Comment : Designator=R21 Old Comment=1M New Comment=RES_0805
+Change Component Comment : Designator=C26 Old Comment=2.2uF New Comment=CAP_0805
+Change Component Comment : Designator=C27 Old Comment=2.2uF New Comment=CAP_0805
+Change Component Comment : Designator=R32 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R34 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R35 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R36 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R37 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R38 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R39 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R40 Old Comment=2k New Comment=RES_0805
+Change Component Comment : Designator=R24 Old Comment=4k7 New Comment=RES_0805
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R12 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=RES_0805
+Change Component Comment : Designator=R22 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R41 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R42 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R43 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R44 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R45 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=R46 Old Comment=10k New Comment=RES_0805
+Change Component Comment : Designator=C25 Old Comment=15 pF New Comment=CAP_0805
+Change Component Comment : Designator=C29 Old Comment=15 pF New Comment=CAP_0805
+Change Component Comment : Designator=C23 Old Comment=22 pF New Comment=CAP_0805
+Change Component Comment : Designator=C24 Old Comment=22 pF New Comment=CAP_0805
+Change Component Comment : Designator=R20 Old Comment=47 New Comment=RES_0805
+Change Component Comment : Designator=R26 Old Comment=49R9 New Comment=RES_0805
+Change Component Comment : Designator=R27 Old Comment=49R9 New Comment=RES_0805
+Change Component Comment : Designator=R28 Old Comment=49R9 New Comment=RES_0805
+Change Component Comment : Designator=R29 Old Comment=49R9 New Comment=RES_0805
+Change Component Comment : Designator=R23 Old Comment=100K New Comment=RES_0805
+Change Component Comment : Designator=R11 Old Comment=120 New Comment=RES_0805
+Change Component Comment : Designator=R13 Old Comment=120 New Comment=RES_0805
+Change Component Comment : Designator=R47 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R48 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R49 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R50 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R51 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R52 Old Comment=150 New Comment=RES_0805
+Change Component Comment : Designator=R30 Old Comment=240 New Comment=RES_0805
+Change Component Comment : Designator=R31 Old Comment=240 New Comment=RES_0805
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X6
+Change Component Designator: OldDesignator=X? NewDesignator=X7
+Change Component Designator: OldDesignator=X? NewDesignator=X8
+Change Component Designator: OldDesignator=X? NewDesignator=X9
+Added Component: Designator=X2(YX-XH-3)
+Added Component: Designator=X4(YX-XH-3)
+Added Pin To Net: NetName=NetDD1_7 Pin=X2-1
+Added Pin To Net: NetName=NetDD1_6 Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=NetDD2_7 Pin=X4-1
+Added Pin To Net: NetName=NetDD2_6 Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-3
+Change Net Name : Old Net Name=NetX?_15 New Net Name=NetX5_15
+Added Pin To Net: NetName=NetU8_1 Pin=U8-1
+Added Pin To Net: NetName=NetU8_1 Pin=U8-10
+Added Net: Name=NetU8_1
+Added Pin To Net: NetName=NetU8_7 Pin=U8-7
+Added Pin To Net: NetName=NetU8_7 Pin=U8-12
+Added Net: Name=NetU8_7
+Added Member To Class: ClassName=FLASH Member=Component C11 CAP_0805
+Added Member To Class: ClassName=MCU Member=Component C13 CAP_0805
+Added Member To Class: ClassName=MCU Member=Component C28 CAP_0805
+Added Member To Class: ClassName=MCU Member=Component C29 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C30 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C31 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C32 TECAP_A
+Added Member To Class: ClassName=ETH_PHY Member=Component C33 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C34 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C35 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C36 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C37 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C38 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C39 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C40 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C41 CAP_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component C42 CAP_0805
+Added Member To Class: ClassName=JTAG Member=Component R14 10K
+Added Member To Class: ClassName=JTAG Member=Component R15 10K
+Added Member To Class: ClassName=ETH_PHY Member=Component R31 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R32 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R33 1M
+Added Member To Class: ClassName=ETH_PHY Member=Component R34 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R35 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R36 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R37 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R38 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R39 RES_0805
+Added Member To Class: ClassName=ETH_PHY Member=Component R40 RES_0805
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component U8 LM224D
+Added Member To Class: ClassName=CAN Member=Component X2 CAN_CONNECTOR
+Added Member To Class: ClassName=CAN Member=Component X4 CAN_CONNECTOR
+Added Member To Class: ClassName=DS18B20 Member=Component X6 DS18B20
+Added Member To Class: ClassName=DS18B20 Member=Component X7 DS18B20
+Added Member To Class: ClassName=DS18B20 Member=Component X8 DS18B20
+Added Member To Class: ClassName=DS18B20 Member=Component X9 DS18B20

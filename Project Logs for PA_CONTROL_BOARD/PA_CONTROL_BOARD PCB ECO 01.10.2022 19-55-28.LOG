@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=ETH_PHY Member=C15
+Removed Member From Class: ClassName=ETH_PHY Member=C16
+Removed Member From Class: ClassName=ETH_PHY Member=C17
+Removed Member From Class: ClassName=ETH_PHY Member=C18
+Removed Member From Class: ClassName=ETH_PHY Member=C19
+Removed Member From Class: ClassName=ETH_PHY Member=C20
+Removed Member From Class: ClassName=ETH_PHY Member=C21
+Removed Member From Class: ClassName=ETH_PHY Member=C22
+Removed Member From Class: ClassName=ETH_PHY Member=C23
+Removed Member From Class: ClassName=ETH_PHY Member=C24
+Removed Member From Class: ClassName=ETH_PHY Member=C25
+Removed Member From Class: ClassName=ETH_PHY Member=C26
+Removed Member From Class: ClassName=ETH_PHY Member=C27
+Removed Member From Class: ClassName=ETH_PHY Member=R16
+Removed Member From Class: ClassName=ETH_PHY Member=R17
+Removed Member From Class: ClassName=ETH_PHY Member=R18
+Removed Member From Class: ClassName=ETH_PHY Member=R19
+Removed Member From Class: ClassName=ETH_PHY Member=R20
+Removed Member From Class: ClassName=ETH_PHY Member=R21
+Removed Member From Class: ClassName=ETH_PHY Member=R22
+Removed Member From Class: ClassName=ETH_PHY Member=R23
+Added Member To Class: ClassName=FLASH Member=Component C11 0.1 uF
+Added Member To Class: ClassName=MCU Member=Component C13 0.1 uF
+Added Member To Class: ClassName=MCU Member=Component C28 0.1 uF
+Added Member To Class: ClassName=MCU Member=Component C29 15 pF
+Added Member To Class: ClassName=ETH_PHY Member=Component C30 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C31 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C32 TECAP_A
+Added Member To Class: ClassName=ETH_PHY Member=Component C33 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C34 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C35 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C36 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C37 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C38 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C39 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C40 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C41 0.1 uF
+Added Member To Class: ClassName=ETH_PHY Member=Component C42 0.1 uF
+Added Member To Class: ClassName=JTAG Member=Component R14 10K
+Added Member To Class: ClassName=JTAG Member=Component R15 10K
+Added Member To Class: ClassName=ETH_PHY Member=Component R31 240
+Added Member To Class: ClassName=ETH_PHY Member=Component R32 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R33 1M
+Added Member To Class: ClassName=ETH_PHY Member=Component R34 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R35 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R36 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R37 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R38 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R39 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R40 2k
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component U? LM224D
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component U? LM224D
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component U? LM224D
+Added Member To Class: ClassName=DS18B20 Member=Component X? DS18B20
+Added Member To Class: ClassName=DS18B20 Member=Component X? DS18B20
+Added Member To Class: ClassName=DS18B20 Member=Component X? DS18B20
