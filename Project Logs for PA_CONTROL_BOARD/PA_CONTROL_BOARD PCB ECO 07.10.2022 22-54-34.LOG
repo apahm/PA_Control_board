@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=DA3-1
+Removed Pin From Net: NetName=NetC13_2 Pin=DA3-2
+Removed Pin From Net: NetName=NetC13_2 Pin=DA3-5
+Removed Pin From Net: NetName=NetC16_2 Pin=DA3-10
+Removed Pin From Net: NetName=NetC16_2 Pin=DA3-13
+Removed Pin From Net: NetName=NetC17_2 Pin=DA3-14
+Removed Pin From Net: NetName=NetR8_1 Pin=VD2-1
+Removed Member From Class: ClassName=DIRECTIONAL_COUPLER Member=DA3
+Removed Member From Class: ClassName=DIRECTIONAL_COUPLER Member=VD2
+Removed Member From Class: ClassName=JTAG_MCU Member=VD7
+Removed Member From Class: ClassName=JTAG_MCU Member=VD8
+Removed Member From Class: ClassName=JTAG_MCU Member=VD9
+Change Component Designator: OldDesignator=R60 NewDesignator=R61
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R63
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=XS1 NewDesignator=XS2
+Change Component Designator: OldDesignator=XS2 NewDesignator=XS3
+Change Component Designator: OldDesignator=XS3 NewDesignator=XS4
+Change Component Designator: OldDesignator=XS4 NewDesignator=XS5
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS6
+Change Component Designator: OldDesignator=XS6 NewDesignator=XS7
+Change Component Designator: OldDesignator=XS7 NewDesignator=XS8
+Change Component Designator: OldDesignator=XS8 NewDesignator=XS9
+Change Component Designator: OldDesignator=XS10 NewDesignator=XS11
+Change Component Designator: OldDesignator=XS11 NewDesignator=XS12
+Change Component Designator: OldDesignator=XS12 NewDesignator=XS13
+Change Component Designator: OldDesignator=XS13 NewDesignator=XS14
+Change Component Designator: OldDesignator=XS14 NewDesignator=XS15
+Change Component Designator: OldDesignator=XS16 NewDesignator=XS17
+Added Component: Designator=DA?(Texas_Instruments_D0014A_IPC_A)
+Add component (AddParameter): Name = "OPAType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(Texas_Instruments_D0014A_IPC_A)
+Add component (AddParameter): Name = "OPAType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(Texas_Instruments_D0014A_IPC_A)
+Add component (AddParameter): Name = "OPAType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(Texas_Instruments_D0014A_IPC_A)
+Add component (AddParameter): Name = "OPAType"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=R60(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(BAT54C_SOT23-3)
+Added Component: Designator=XS1(PLD1X4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS16(WF-5)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=DA?-1
+Added Pin To Net: NetName=NetC13_2 Pin=DA?-2
+Added Pin To Net: NetName=NetC13_2 Pin=DA?-5
+Added Pin To Net: NetName=NetC16_2 Pin=DA?-10
+Added Pin To Net: NetName=NetC16_2 Pin=DA?-13
+Added Pin To Net: NetName=NetC17_2 Pin=DA?-14
+Added Pin To Net: NetName=GND Pin=DD4-35
+Added Pin To Net: NetName=3V3 Pin=R60-2
+Added Pin To Net: NetName=NetR8_1 Pin=VD?-1
+Added Pin To Net: NetName=3V3 Pin=VD?-3
+Added Pin To Net: NetName=+12V Pin=XS1-1
+Added Pin To Net: NetName=+12V Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-4
+Added Pin To Net: NetName=NetL1_2 Pin=XS16-1
+Added Pin To Net: NetName=NetK1_12 Pin=XS16-2
+Added Pin To Net: NetName=NetK1_13 Pin=XS16-3
+Added Pin To Net: NetName=NetR33_1 Pin=XS16-4
+Added Pin To Net: NetName=NetR36_1 Pin=XS16-5
+Change Net Name : Old Net Name=NetXS14_15 New Net Name=NetXS15_15
+Added Pin To Net: NetName=NetDA?_3 Pin=DA?-3
+Added Net: Name=NetDA?_3
+Added Pin To Net: NetName=NetDA?_6 Pin=DA?-6
+Added Pin To Net: NetName=NetDA?_6 Pin=DA?-7
+Added Pin To Net: NetName=NetDA?_6 Pin=R8-2
+Added Net: Name=NetDA?_6
+Added Pin To Net: NetName=NetDA?_8 Pin=DA?-8
+Added Pin To Net: NetName=NetDA?_8 Pin=DA?-9
+Added Pin To Net: NetName=NetDA?_8 Pin=R13-2
+Added Net: Name=NetDA?_8
+Added Pin To Net: NetName=NetDA?_12 Pin=DA?-12
+Added Net: Name=NetDA?_12
+Added Pin To Net: NetName=NetDD4_7 Pin=DD4-7
+Added Pin To Net: NetName=NetDD4_7 Pin=R60-1
+Added Net: Name=NetDD4_7
+Added Pin To Net: NetName=NetVD?_2 Pin=VD?-2
+Added Net: Name=NetVD?_2
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component DA? LM224
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component DA? LM224
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component DA? LM224
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component DA? LM224
+Added Member To Class: ClassName=ETH_PHY Member=Component R61 2k
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD? BAT54C
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component XS1 POWER
+Added Member To Class: ClassName=SEQUENCER Member=Component XS16 SEQ
