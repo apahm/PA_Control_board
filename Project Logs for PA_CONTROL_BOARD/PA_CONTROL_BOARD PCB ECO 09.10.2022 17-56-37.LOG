@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+12V Pin=R28-1
+Added Pin To Net: NetName=+12V Pin=VT1-3
+Added Room: Name=ETH_PHY
+Added Room: Name=JTAG_MCU
+Added Room: Name=SEQUENCER

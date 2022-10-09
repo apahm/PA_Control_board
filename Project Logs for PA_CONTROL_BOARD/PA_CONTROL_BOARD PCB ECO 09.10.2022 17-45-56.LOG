@@ -1,0 +1,9 @@
+Change Component Comment : Designator=Z1 Old Comment=HCM1212X New Comment=
+Change Component Designator: OldDesignator=   NewDesignator=DD4
+Added Member To Class: ClassName=ETH_PHY Member=Component DD4 DP83848CVVNOPB
+Added Member To Class: ClassName=ETH_PHY Member=Component R45 33
+Added Member To Class: ClassName=ETH_PHY Member=Component R47 33
+Added Member To Class: ClassName=ETH_PHY Member=Component R49 33
+Added Room: Name=ETH_PHY
+Added Room: Name=JTAG_MCU
+Added Room: Name=SEQUENCER

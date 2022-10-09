@@ -1,0 +1,4 @@
+Added Component: Designator=Z1(HCM1206X)
+Added Pin To Net: NetName=NetVD8_2 Pin=Z1-1
+Added Pin To Net: NetName=+12V Pin=Z1-2
+Added Member To Class: ClassName=SEQUENCER Member=Component Z1
