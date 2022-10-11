@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NRST
+Change Net Name : Old Net Name=NetC47_2 New Net Name=VREF+
+Change Net Name : Old Net Name=NetC49_2 New Net Name=VBAT
+Change Net Name : Old Net Name=NetC50_1 New Net Name=VDDA
+Change Net Name : Old Net Name=NetDD5_72 New Net Name=JTMS
+Change Net Name : Old Net Name=NetDD5_76 New Net Name=JTCK
+Change Net Name : Old Net Name=NetDD5_77 New Net Name=JTDI
+Change Net Name : Old Net Name=NetDD5_89 New Net Name=JTDO
+Change Net Name : Old Net Name=NetDD5_90 New Net Name=JNTRST
+Added Room: Name=JTAG_MCU

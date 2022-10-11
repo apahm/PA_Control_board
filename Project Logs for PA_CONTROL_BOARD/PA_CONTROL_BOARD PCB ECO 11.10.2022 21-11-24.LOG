@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=RX_DV Pin=DD4-39
+Removed Pin From Net: NetName=E_RMII_CRSDV Pin=DD4-40
+Removed Pin From Net: NetName=E_RMII_CRSDV Pin=DD5-32
+Removed Pin From Net: NetName=RX_DV Pin=R61-1
+Removed Pin From Net: NetName=3V3 Pin=R61-2
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=GND Pin=R64-1
+Removed Pin From Net: NetName=+12V Pin=XS1-2
+Removed Member From Class: ClassName=ETH_PHY Member=R61
+Change Component Footprint: Designator=R61 Old Footprint=C0805R New Footprint=AXIAL-0.6
+Change Component Comment : Designator=Z1 Old Comment= New Comment=HCM1212X
+Change Component Comment : Designator=R61 Old Comment=2k New Comment=2R2
+Change Component Designator: OldDesignator=VD? NewDesignator=VD6
+Change Component Designator: OldDesignator=VD? NewDesignator=VD10
+Added Component: Designator=R72(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R73(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R74(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R75(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R76(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO214AB SMC)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DO214AB SMC)
+Added Component: Designator=VD?(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=XS18(PLD2-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD3_1 Pin=DD5-29
+Added Pin To Net: NetName=NetDD3_6 Pin=DD5-66
+Added Pin To Net: NetName=NetDD3_2 Pin=DD5-78
+Added Pin To Net: NetName=NetDD3_5 Pin=DD5-79
+Added Pin To Net: NetName=NetDD5_95 Pin=DD6-14
+Added Pin To Net: NetName=NetDD5_96 Pin=DD6-15
+Added Pin To Net: NetName=NetDD5_96 Pin=R69-1
+Added Pin To Net: NetName=NetDD5_95 Pin=R70-1
+Added Pin To Net: NetName=RX_DV Pin=R72-1
+Added Pin To Net: NetName=3V3 Pin=R72-2
+Added Pin To Net: NetName=E_RMII_CRSDV Pin=R73-1
+Added Pin To Net: NetName=E_RMII_CRSDV Pin=R74-2
+Added Pin To Net: NetName=RX_DV Pin=R75-1
+Added Pin To Net: NetName=RX_DV Pin=R76-2
+Added Pin To Net: NetName=+12V Pin=VD1-2
+Added Pin To Net: NetName=+12V Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=NetDA6_4 Pin=VD?-1
+Added Pin To Net: NetName=+12V Pin=VD?-2
+Added Pin To Net: NetName=3V3 Pin=XS18-1
+Added Pin To Net: NetName=3V3 Pin=XS18-2
+Added Pin To Net: NetName=GND Pin=XS18-5
+Added Pin To Net: NetName=GND Pin=XS18-6
+Added Pin To Net: NetName=NetDD4_39 Pin=DD4-39
+Added Pin To Net: NetName=NetDD4_39 Pin=R75-2
+Added Net: Name=NetDD4_39
+Added Pin To Net: NetName=NetDD4_40 Pin=DD4-40
+Added Pin To Net: NetName=NetDD4_40 Pin=R73-2
+Added Net: Name=NetDD4_40
+Added Pin To Net: NetName=NetDD5_23 Pin=DD5-23
+Added Pin To Net: NetName=NetDD5_23 Pin=R8-1
+Added Pin To Net: NetName=NetDD5_23 Pin=VD2-1
+Added Net: Name=NetDD5_23
+Added Pin To Net: NetName=NetDD5_26 Pin=DD5-26
+Added Pin To Net: NetName=NetDD5_26 Pin=VD2-2
+Added Net: Name=NetDD5_26
+Added Pin To Net: NetName=NetDD5_32 Pin=DD5-32
+Added Pin To Net: NetName=NetDD5_32 Pin=R74-1
+Added Pin To Net: NetName=NetDD5_32 Pin=R76-1
+Added Net: Name=NetDD5_32
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=XS1-2
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=VD1-1
+Added Net: Name=NetR61_2
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=XS18-4
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=XS18-3
+Added Net: Name=NetR64_1
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component R61 2R2
+Added Member To Class: ClassName=ETH_PHY Member=Component R72 2k
+Added Member To Class: ClassName=ETH_PHY Member=Component R73 33
+Added Member To Class: ClassName=ETH_PHY Member=Component R74 0
+Added Member To Class: ClassName=ETH_PHY Member=Component R75 33
+Added Member To Class: ClassName=ETH_PHY Member=Component R76 0
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component VD1 VS-30BQ040
+Added Member To Class: ClassName=POWER_SUPPLY Member=Component VD3 SM15T39CA
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD6 LL4148
+Added Member To Class: ClassName=SEQUENCER Member=Component VD? 1N4007
+Added Member To Class: ClassName=MCU_CORE Member=Component XS18 BOOT
