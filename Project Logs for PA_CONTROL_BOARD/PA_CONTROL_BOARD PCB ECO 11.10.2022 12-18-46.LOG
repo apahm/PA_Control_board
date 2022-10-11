@@ -1,0 +1,64 @@
+Add Component: Footprint Not Found PLD1X4
+Add Component: Footprint Not Found PLD1X4
+Added Component: Designator=XS14(IDC-20)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R14-3
+Add Pin To Net: Unknown Pin: Pin VD1-A
+Add Pin To Net: Unknown Pin: Pin VD1-C
+Add Pin To Net: Unknown Pin: Pin VD3-A
+Add Pin To Net: Unknown Pin: Pin VD3-C
+Add Pin To Net: Unknown Pin: Pin XS10-1
+Add Pin To Net: Unknown Pin: Pin XS10-2
+Add Pin To Net: Unknown Pin: Pin XS10-3
+Add Pin To Net: Unknown Pin: Pin XS11-1
+Add Pin To Net: Unknown Pin: Pin XS11-2
+Add Pin To Net: Unknown Pin: Pin XS11-3
+Add Pin To Net: Unknown Pin: Pin XS11-4
+Add Pin To Net: Unknown Pin: Pin XS12-1
+Add Pin To Net: Unknown Pin: Pin XS12-2
+Add Pin To Net: Unknown Pin: Pin XS12-3
+Add Pin To Net: Unknown Pin: Pin XS12-4
+Add Pin To Net: Unknown Pin: Pin ZQ1-3
+Add Pin To Net: Unknown Pin: Pin ZQ2-3
+Added Class: Name=IIC_LCD
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Add Class Member: Failed to add class member : Component C30 10uFx10V
+Add Class Member: Failed to add class member : Component C48 1uF
+Add Class Member: Failed to add class member : Component C51 1uF
+Add Class Member: Failed to add class member : Component R9 20k
+Add Class Member: Failed to add class member : Component R14 20k
+Add Class Member: Failed to add class member : Component VD1
+Add Class Member: Failed to add class member : Component VD3
+Add Class Member: Failed to add class member : Component XS10 SWR
+Add Class Member: Failed to add class member : Component XS11 FAN
+Add Class Member: Failed to add class member : Component XS12 FAN
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
