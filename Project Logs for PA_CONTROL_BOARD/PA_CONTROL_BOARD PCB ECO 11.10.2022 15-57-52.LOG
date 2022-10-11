@@ -1,0 +1,47 @@
+Added Component: Designator=VD?(DIO_LL4148)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(DIO_LL4148)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PLD1X4
+Add Component: Footprint Not Found PLD1X4
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C51-1
+Add Pin To Net: Unknown Pin: Pin C51-2
+Add Pin To Net: Unknown Pin: Pin VD?-1
+Add Pin To Net: Unknown Pin: Pin VD?-1
+Add Pin To Net: Unknown Pin: Pin VD?-2
+Add Pin To Net: Unknown Pin: Pin VD?-2
+Add Pin To Net: Unknown Pin: Pin XS10-1
+Add Pin To Net: Unknown Pin: Pin XS10-2
+Add Pin To Net: Unknown Pin: Pin XS10-3
+Add Pin To Net: Unknown Pin: Pin XS11-1
+Add Pin To Net: Unknown Pin: Pin XS11-2
+Add Pin To Net: Unknown Pin: Pin XS11-3
+Add Pin To Net: Unknown Pin: Pin XS11-4
+Add Pin To Net: Unknown Pin: Pin XS12-1
+Add Pin To Net: Unknown Pin: Pin XS12-2
+Add Pin To Net: Unknown Pin: Pin XS12-3
+Add Pin To Net: Unknown Pin: Pin XS12-4
+Add Pin To Net: Unknown Pin: Pin ZQ1-3
+Add Pin To Net: Unknown Pin: Pin ZQ2-3
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Add Class Member: Failed to add class member : Component C30 10uFx10V
+Add Class Member: Failed to add class member : Component C48 1uF
+Add Class Member: Failed to add class member : Component C51 1uF
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD? LL4148
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD? LL4148
+Add Class Member: Failed to add class member : Component XS10 SWR
+Add Class Member: Failed to add class member : Component XS11 FAN
+Add Class Member: Failed to add class member : Component XS12 FAN
