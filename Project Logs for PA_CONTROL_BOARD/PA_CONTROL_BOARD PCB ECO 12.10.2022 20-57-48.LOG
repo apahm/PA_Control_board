@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PH0 Pin=ZQ1-2
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

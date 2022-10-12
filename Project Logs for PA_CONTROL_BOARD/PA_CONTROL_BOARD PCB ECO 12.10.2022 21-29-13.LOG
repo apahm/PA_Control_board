@@ -1,0 +1,108 @@
+Added Component: Designator=C9(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C48(TECAP_A)
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C49(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C51(TECAP_A)
+Add component (AddParameter): Name = "Published"; Value = "20.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SOIC8 (SO-8))
+Add component (AddParameter): Name = "Published"; Value = "26.02.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микросхема"; VariantName = "[No Variations]"
+Added Component: Designator=J1(BK-912-TR)
+Added Component: Designator=R1(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R2(C0805R)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD9(BAT54C_SOT23-3)
+Added Component: Designator=XS2(YX-XH-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Added Component: Designator=XS3(PLD2)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ2(FC-135)
+Add component (AddParameter): Name = "Published"; Value = "08.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резонатор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=PC14 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=PC15 Pin=C37-2
+Added Pin To Net: NetName=VREF+ Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=VBAT Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=VDDA Pin=C51-2
+Added Pin To Net: NetName=CAN1_TXD Pin=DD1-1
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=3V3 Pin=DD1-3
+Added Pin To Net: NetName=CAN1_RXD Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_6 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetDD1_8 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetDD1_6 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=VD9-1
+Added Pin To Net: NetName=3V3 Pin=VD9-2
+Added Pin To Net: NetName=VBAT Pin=VD9-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS2-1
+Added Pin To Net: NetName=NetDD1_6 Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-3
+Added Pin To Net: NetName=NetDD1_7 Pin=XS3-1
+Added Pin To Net: NetName=NetR2_1 Pin=XS3-2
+Added Pin To Net: NetName=PC15 Pin=ZQ2-1
+Added Member To Class: ClassName=CAN Member=Component C9 0.1uF
+Added Member To Class: ClassName=MCU_CORE Member=Component C36 15pF
+Added Member To Class: ClassName=MCU_CORE Member=Component C37 15pF
+Added Member To Class: ClassName=MCU_CORE Member=Component C48 1uF
+Added Member To Class: ClassName=MCU_CORE Member=Component C49 0.1uF
+Added Member To Class: ClassName=MCU_CORE Member=Component C51 1uF
+Added Member To Class: ClassName=CAN Member=Component DD1 SN65HVD230
+Added Member To Class: ClassName=MCU_CORE Member=Component J1 BK-912-TR
+Added Member To Class: ClassName=CAN Member=Component R1 R0805
+Added Member To Class: ClassName=CAN Member=Component R2 120
+Added Member To Class: ClassName=MCU_CORE Member=Component VD9 BAT54C
+Added Member To Class: ClassName=CAN Member=Component XS2 CAN
+Added Member To Class: ClassName=CAN Member=Component XS3 Text
+Added Member To Class: ClassName=MCU_CORE Member=Component ZQ2 FC135
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
