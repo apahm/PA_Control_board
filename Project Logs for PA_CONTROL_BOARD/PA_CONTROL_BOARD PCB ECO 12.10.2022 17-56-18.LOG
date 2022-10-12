@@ -1,0 +1,27 @@
+Added Component: Designator=XS11(WF-4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=XS12(WF-4)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XS11-1
+Added Pin To Net: NetName=+12V Pin=XS11-2
+Added Pin To Net: NetName=NetR18_1 Pin=XS11-3
+Added Pin To Net: NetName=NetR20_2 Pin=XS11-4
+Added Pin To Net: NetName=GND Pin=XS12-1
+Added Pin To Net: NetName=+12V Pin=XS12-2
+Added Pin To Net: NetName=NetR19_1 Pin=XS12-3
+Added Pin To Net: NetName=NetR21_2 Pin=XS12-4
+Added Member To Class: ClassName=FAN_CTRL Member=Component XS11 FAN
+Added Member To Class: ClassName=FAN_CTRL Member=Component XS12 FAN
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU

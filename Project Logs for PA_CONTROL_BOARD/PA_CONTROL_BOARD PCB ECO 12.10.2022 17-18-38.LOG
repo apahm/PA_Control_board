@@ -1,0 +1,18 @@
+Change Net Name : Old Net Name=NetDD5_95 New Net Name=SCL
+Change Net Name : Old Net Name=NetDD5_96 New Net Name=SDA
+Change Net Name : Old Net Name=NetDD6_1 New Net Name=A0
+Change Net Name : Old Net Name=NetDD6_2 New Net Name=A1
+Change Net Name : Old Net Name=NetDD6_3 New Net Name=A2
+Change Net Name : Old Net Name=NetDD6_4 New Net Name=P0
+Change Net Name : Old Net Name=NetDD6_5 New Net Name=P1
+Change Net Name : Old Net Name=NetDD6_6 New Net Name=P2
+Change Net Name : Old Net Name=NetDD6_7 New Net Name=P3
+Change Net Name : Old Net Name=NetDD6_9 New Net Name=P4
+Change Net Name : Old Net Name=NetDD6_10 New Net Name=P5
+Change Net Name : Old Net Name=NetDD6_11 New Net Name=P6
+Change Net Name : Old Net Name=NetDD6_12 New Net Name=P7
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU

@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=NetR6_2 Pin=DD5-68
+Change Net Name : Old Net Name=NetC34_2 New Net Name=PH0
+Change Net Name : Old Net Name=NetC35_2 New Net Name=PH1
+Change Net Name : Old Net Name=NetC37_2 New Net Name=PC15
+Change Net Name : Old Net Name=NetDD1_1 New Net Name=CAN1_TXD
+Change Net Name : Old Net Name=NetDD1_4 New Net Name=CAN1_RXD
+Change Net Name : Old Net Name=NetDD2_1 New Net Name=CAN2_TXD
+Change Net Name : Old Net Name=NetDD2_4 New Net Name=CAN2_RXD
+Change Net Name : Old Net Name=NetDD5_33 New Net Name=E_RXD0
+Change Net Name : Old Net Name=NetDD5_34 New Net Name=E_RXD1
+Change Net Name : Old Net Name=NetDD5_48 New Net Name=E_TXEN
+Change Net Name : Old Net Name=NetDD5_51 New Net Name=E_TXD0
+Change Net Name : Old Net Name=NetDD5_52 New Net Name=E_TXD1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=DS18B20
+Change Net Name : Old Net Name=SCL New Net Name=LCD_SCL
+Change Net Name : Old Net Name=SDA New Net Name=LCD_SDA
+Added Pin To Net: NetName=PC14 Pin=C36-2
+Added Pin To Net: NetName=PC14 Pin=DD5-8
+Added Net: Name=PC14
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
