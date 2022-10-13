@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=3V3 Pin=VD9-2
+Removed Member From Class: ClassName=MCU_CORE Member=C36
+Removed Member From Class: ClassName=MCU_CORE Member=C37
+Removed Member From Class: ClassName=MCU_CORE Member=J1
+Removed Member From Class: ClassName=MCU_CORE Member=VD9
+Removed Member From Class: ClassName=MCU_CORE Member=ZQ2
+Added Pin To Net: NetName=3V3 Pin=C49-2
+Added Pin To Net: NetName=3V3 Pin=DD5-6
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=MCU_CORE

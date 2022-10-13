@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN1_RXD Pin=DD5-70
+Removed Pin From Net: NetName=CAN1_TXD Pin=DD5-71
+Added Pin To Net: NetName=CAN1_RXD Pin=DD5-91
+Added Pin To Net: NetName=CAN1_TXD Pin=DD5-92
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=MCU_CORE
