@@ -1,0 +1,23 @@
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin VD6-1
+Add Pin To Net: Unknown Pin: Pin VD6-2
+Add Pin To Net: Unknown Pin: Pin VD10-1
+Add Pin To Net: Unknown Pin: Pin VD10-2
+Add Pin To Net: Unknown Pin: Pin XS10-1
+Add Pin To Net: Unknown Pin: Pin XS10-2
+Add Pin To Net: Unknown Pin: Pin XS10-3
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-2
+Added Pin To Net: NetName=NetDD4_2 Pin=R49-1
+Added Net: Name=NetDD4_2
+Added Pin To Net: NetName=NetDD4_3 Pin=DD4-3
+Added Pin To Net: NetName=NetDD4_3 Pin=R45-1
+Added Net: Name=NetDD4_3
+Added Pin To Net: NetName=NetDD4_4 Pin=DD4-4
+Added Pin To Net: NetName=NetDD4_4 Pin=R47-1
+Added Net: Name=NetDD4_4
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Add Class Member: Failed to add class member : Component XS10 SWR
