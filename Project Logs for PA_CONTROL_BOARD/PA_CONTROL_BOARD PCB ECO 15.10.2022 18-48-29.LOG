@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=3V3 Pin=R24-2
+Added Pin To Net: NetName=3V3 Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=R26-2
+Added Pin To Net: NetName=3V3 Pin=XS15-1
+Added Pin To Net: NetName=3V3 Pin=XS15-2
+Added Room: Name=CAN
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
