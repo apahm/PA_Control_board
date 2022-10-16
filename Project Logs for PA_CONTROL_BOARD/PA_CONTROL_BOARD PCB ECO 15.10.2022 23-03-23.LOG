@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetDA5_1 Pin=VD8-1
+Removed Pin From Net: NetName=NetDA6_4 Pin=VD?-1
+Removed Pin From Net: NetName=+12V Pin=VD?-2
+Added Pin To Net: NetName=NetVD8_K Pin=VT2-2
+Added Pin To Net: NetName=NetVD8_K Pin=Z1-1
+Added Net: Name=NetVD8_K
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

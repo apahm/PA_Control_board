@@ -1,0 +1,16 @@
+Added Component: Designator=VD6(DIO_LL4148)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD10(DIO_LL4148)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=VD6-1
+Added Pin To Net: NetName=NetC13_2 Pin=VD6-2
+Added Pin To Net: NetName=NetC17_2 Pin=VD10-1
+Added Pin To Net: NetName=NetC16_2 Pin=VD10-2
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD6 LL4148
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component VD10 LL4148
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

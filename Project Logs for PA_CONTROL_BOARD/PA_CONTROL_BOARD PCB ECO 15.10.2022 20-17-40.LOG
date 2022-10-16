@@ -1,0 +1,17 @@
+Added Component: Designator=XS10(YX-XH-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=XS10-1
+Added Pin To Net: NetName=GND Pin=XS10-2
+Added Pin To Net: NetName=NetC15_2 Pin=XS10-3
+Added Member To Class: ClassName=DIRECTIONAL_COUPLER Member=Component XS10 SWR
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

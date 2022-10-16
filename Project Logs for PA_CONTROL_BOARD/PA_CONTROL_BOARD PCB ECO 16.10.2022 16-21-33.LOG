@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=3V3 Pin=C49-2
+Removed Pin From Net: NetName=3V3 Pin=DD5-6
+Removed Pin From Net: NetName=NetDD3_6 Pin=DD5-66
+Removed Pin From Net: NetName=NetDD3_2 Pin=DD5-78
+Removed Pin From Net: NetName=NetDD3_5 Pin=DD5-79
+Added Component: Designator=C?(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805C)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BK-912-TR)
+Added Component: Designator=VD?(BAT54C_SOT23-3)
+Added Component: Designator=ZQ?(FC-135)
+Add component (AddParameter): Name = "Published"; Value = "08.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резонатор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetDD3_6 Pin=DD5-78
+Added Pin To Net: NetName=NetDD3_2 Pin=DD5-79
+Added Pin To Net: NetName=NetDD3_5 Pin=DD5-80
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=3V3 Pin=VD?-2
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=DD5-6
+Added Pin To Net: NetName=NetC49_1 Pin=VD?-3
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=DD5-9
+Added Pin To Net: NetName=NetC?_2 Pin=ZQ?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=VD?-1
+Added Net: Name=NetJ?_1
+Added Member To Class: ClassName=MCU_CORE Member=Component C? 15pF
+Added Member To Class: ClassName=MCU_CORE Member=Component C? 15pF
+Added Member To Class: ClassName=MCU_CORE Member=Component J? BK-912-TR
+Added Member To Class: ClassName=MCU_CORE Member=Component VD? BAT54C
+Added Member To Class: ClassName=MCU_CORE Member=Component ZQ? FC135
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

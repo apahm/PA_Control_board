@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetDD5_26 Pin=R13-1
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

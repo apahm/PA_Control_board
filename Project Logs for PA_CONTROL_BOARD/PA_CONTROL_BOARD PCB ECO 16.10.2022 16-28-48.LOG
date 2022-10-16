@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC36_2 Pin=ZQ2-1
+Removed Member From Class: ClassName=MCU_CORE Member=ZQ2
+Added Component: Designator=ZQ?(FC-135)
+Add component (AddParameter): Name = "Published"; Value = "08.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резонатор"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC36_2 Pin=ZQ?-1
+Added Pin To Net: NetName=NetC10_2 Pin=ZQ?-2
+Added Member To Class: ClassName=MCU_CORE Member=Component C36 15pF
+Added Member To Class: ClassName=MCU_CORE Member=Component ZQ? FC135
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY

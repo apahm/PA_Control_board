@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=I2C3_SCL Pin=DD5-67
+Added Net: Name=I2C3_SCL
+Added Pin To Net: NetName=I2C3_SDA Pin=DD5-66
+Added Net: Name=I2C3_SDA
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
