@@ -1,0 +1,20 @@
+Added Component: Designator=XS9(YX-XH-3)
+Add component (AddParameter): Name = "Published"; Value = "07.03.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Розетка"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=XS9-1
+Added Pin To Net: NetName=DS18B20 Pin=XS9-2
+Added Pin To Net: NetName=GND Pin=XS9-3
+Added Member To Class: ClassName=FLASH Member=Component U AT24C128C-SSHM-T
+Added Member To Class: ClassName=FLASH Member=Component U AT24C128C-SSHM-T
+Added Member To Class: ClassName=DS18B20 Member=Component XS9 DS18B20
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=DS18B20
+Added Room: Name=ETH_PHY
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
