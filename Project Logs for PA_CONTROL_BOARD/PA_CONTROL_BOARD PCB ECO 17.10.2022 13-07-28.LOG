@@ -1,0 +1,39 @@
+Added Component: Designator=DD?(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AT24C128C-SSHM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AT24C128C-SSHM-T/Microchip/view-part/1771999/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=GND Pin=DD?-4
+Added Pin To Net: NetName=I2C3_SDA Pin=DD?-5
+Added Pin To Net: NetName=I2C3_SCL Pin=DD?-6
+Added Pin To Net: NetName=GND Pin=DD?-7
+Added Pin To Net: NetName=3V3 Pin=DD?-8
+Add Pin To Net: Unknown Pin: Pin VD8-A
+Add Pin To Net: Unknown Pin: Pin VD8-K
+Add Pin To Net: Unknown Pin: Pin VD9-A
+Add Pin To Net: Unknown Pin: Pin VD9-K
+Add Net: Net with name "NetDD?_1" already exists
+Add Net: Net with name "NetDD?_1" already exists
+Add Net: Net with name "NetDD?_2" already exists
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Added Member To Class: ClassName=EEPROM Member=Component DD? AT24C128C-SSHM-T
+Added Member To Class: ClassName=EEPROM Member=Component DD? AT24C128C-SSHM-T
+Added Member To Class: ClassName=EEPROM Member=Component DD? AT24C128C-SSHM-T
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Member To Class: ClassName=EEPROM Member=Component R? 4k7
+Added Member To Class: ClassName=EEPROM Member=Component R? 10k
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
