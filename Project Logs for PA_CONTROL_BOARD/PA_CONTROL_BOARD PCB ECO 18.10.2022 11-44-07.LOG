@@ -1,0 +1,21 @@
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=NetDA5_1 Pin=VD8-2
+Added Pin To Net: NetName=NetVD8_1 Pin=VD8-1
+Added Pin To Net: NetName=NetVD8_1 Pin=VT2-2
+Added Pin To Net: NetName=NetVD8_1 Pin=Z1-1
+Added Net: Name=NetVD8_1
+Add Class Member: Failed to add class member : Component C1 10uFx10V
+Add Class Member: Failed to add class member : Component C4 10uFx10V
+Added Room: Name=CAN
+Added Room: Name=DIRECTIONAL_COUPLER
+Added Room: Name=EEPROM
+Added Room: Name=FAN_CTRL
+Added Room: Name=FLASH
+Added Room: Name=IIC_LCD
+Added Room: Name=JTAG_MCU
+Added Room: Name=MCU_CORE
+Added Room: Name=POWER_SUPPLY
+Added Room: Name=SEQUENCER
